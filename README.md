@@ -1,5 +1,6 @@
 # A simple MERN stack application 
 ![mern-stack-3928260886](https://github.com/user-attachments/assets/6758075d-a66a-4380-96c7-c682a80faac4)
+![mern-stack-b9q1kbudz0-3925239303](https://github.com/user-attachments/assets/c50b4bf3-5d32-4549-83e2-cd9d791debd7)
 
 ### Create a network for the docker containers
 
