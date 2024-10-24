@@ -1,9 +1,10 @@
 # A simple MERN stack application 
+![mern-stack-3928260886](https://github.com/user-attachments/assets/6758075d-a66a-4380-96c7-c682a80faac4)
 
 ### Create a network for the docker containers
 
 `docker network create demo`
-![mern-stack-3928260886](https://github.com/user-attachments/assets/6758075d-a66a-4380-96c7-c682a80faac4)
+
 
 ### Build the client 
 
